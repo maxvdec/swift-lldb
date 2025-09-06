@@ -1,0 +1,12 @@
+//
+//  module.modulemap
+//  SwiftLLDB
+//
+//  Created by Max Van den Eynde on 6/9/25.
+//
+
+module <#ModuleName#> {
+    header "<#Header#>.h"
+
+    export *
+}
